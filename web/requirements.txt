@@ -1,0 +1,4 @@
+Django==4.2
+gunicorn==20.1
+psycopg
+redis==4.5
